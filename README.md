@@ -25,7 +25,7 @@ pio3 install pypng
 
 Now, clone this repo with **git clone**
 ```
-git clone
+git clone https://github.com/aungnyeinchan351/QR_Code_Creator.git
 ```
 
 After cloning this repo, open **QR_Code_Creator** directory with cd command and run **QRCodeCreator.py**
