@@ -35,4 +35,9 @@ cd QR_Code_Creator
 ```
 python3 QRCodeCreator.py
 ```
+Follow me on [Facebook](https://www.facebook.com/zinyaw3063)
+
+Follow me on [GitHub](https://www.github.com/aungnyeinchan351)
+
+Contace me on [Email](mailto:aungnyeinchan3063@protonmail.com)
 
